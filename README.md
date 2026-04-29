@@ -1,4 +1,3 @@
-<!-- ANGEL'S EGG README -->
 
 <p align="center">
   <img src="4.gif" width="100%"/>
@@ -6,7 +5,6 @@
 
 <div align="center">
 
-<!-- BADGES DARK -->
 <p>
   <img src="https://img.shields.io/badge/JavaScript-1a0505?style=flat&logo=javascript&logoColor=8b3a3a"/>
   <img src="https://img.shields.io/badge/HTML5-0d0410?style=flat&logo=html5&logoColor=6b3a7a"/>
@@ -54,7 +52,7 @@ Seja bem-vindo ao meu GitHub.
 </td>
 
 <td width="40%" align="center">
-  <img src="1.gif" width="400"/>
+  <img src="1.gif" width="200"/>
 </td>
 
 </tr>
