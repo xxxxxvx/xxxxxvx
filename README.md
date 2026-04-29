@@ -4,7 +4,10 @@
   <img src="4.gif" width="100%"/>
 </p>
 
-<p align="center">
+<div align="center">
+
+<!-- BADGES DARK -->
+<p>
   <img src="https://img.shields.io/badge/JavaScript-1a0505?style=flat&logo=javascript&logoColor=8b3a3a"/>
   <img src="https://img.shields.io/badge/HTML5-0d0410?style=flat&logo=html5&logoColor=6b3a7a"/>
   <img src="https://img.shields.io/badge/CSS3-040a14?style=flat&logo=css3&logoColor=3a5a8b"/>
@@ -13,9 +16,20 @@
   <img src="https://img.shields.io/badge/Design-0a0208?style=flat&logo=behance&logoColor=6a2a4a"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&color=4a2020&size=14¢er=true&vCenter=true&width=600&lines=天使のたまご+✦+angel's+egg+✦+夢の中の夢"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&color=4a2020&size=18&center=true&vCenter=true&width=600&lines=天使のたまご+✦+angel's+egg+✦+夢の中の夢"/>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-8b3a3a?style=flat&logo=javascript&logoColor=1a0505"/>
+  <img src="https://img.shields.io/badge/HTML5-6b3a7a?style=flat&logo=html5&logoColor=0d0410"/>
+  <img src="https://img.shields.io/badge/CSS3-3a5a8b?style=flat&logo=css3&logoColor=040a14"/>
+  <img src="https://img.shields.io/badge/Java-7a3030?style=flat&logo=coffeescript&logoColor=100808"/>
+  <img src="https://img.shields.io/badge/C-5a3a6b?style=flat&logo=c&logoColor=080410"/>
+  <img src="https://img.shields.io/badge/Design-6a2a4a?style=flat&logo=behance&logoColor=0a0208"/>
 </p>
+
+</div>
 
 <br/>
 
@@ -26,14 +40,11 @@
 
 <p align="left" style="color:#4a3535;">
 
-sobre mim
+  <h3>sobre mim</h3>
 
-<br/><br/>
+<br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar — Londrina, PR.
-Tenho interesse na construção de interfaces e em entender como tudo se conecta por trás dos bastidores.
-Falo inglês fluentemente, o que me permite aprender de formas mais amplas.
-Estou sempre tentando transformar o que aprendo em algo funcional e real.
+Sou uma estudante de Análise e Desenvolvimento de Sistemas, atualmente estudo na Unicesumar — Londrina, PR, tenho 19 anos e possuo interesse na área de programação, onde tento cada vez mais aperfeiçoar meu conhecimento. Tenho foco na construção de interfaces e na forma como tudo se estrutura e se conecta, querendo cada vez mais mergulhar nesse mundo e descobrir como as coisas funcionam por trás dos bastidores. Uma das minhas qualidades é o fato de falar inglês fluentemente, o que me permite acessar conteúdos e aprender de forma mais ampla. Meu foco é seguir evoluindo na área, praticando, entendendo melhor lógica e estrutura, e transformando o que aprendo em algo funcional no dia a dia.
 
 <br/><br/>
 
@@ -43,7 +54,7 @@ Seja bem-vindo ao meu GitHub.
 </td>
 
 <td width="40%" align="center">
-  <img src="1.gif" width="200"/>
+  <img src="1.gif" width="400"/>
 </td>
 
 </tr>
