@@ -74,17 +74,13 @@ Seja bem-vindo ao meu GitHub.
 
 <br/><br/>
 
-<img src="3.gif" width="80%"/>
+<img src="3.gif" width="50%"/>
 
 <br/><br/>
 
 <sub><i>夢を見ているのか、それとも現実なのか。</i></sub>
 
 <br/>
-
-<sub><i>isso é tudo por enquanto.</i></sub>
-
-<br/><br/>
 
 <h3>repositórios em destaque</h3>
 
