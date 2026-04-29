@@ -52,7 +52,7 @@ Seja bem-vindo ao meu GitHub.
 </td>
 
 <td width="40%" align="center">
-  <img src="1.gif" width="200"/>
+  <img src="1.gif" width="300" height="200"/>
 </td>
 
 </tr>
