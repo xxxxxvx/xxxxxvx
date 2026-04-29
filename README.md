@@ -46,7 +46,7 @@
 
 Sou uma estudante de Análise e Desenvolvimento de Sistemas, atualmente estudo na Unicesumar — Londrina, PR, tenho 19 anos e possuo interesse na área de programação, onde tento cada vez mais aperfeiçoar meu conhecimento. Tenho foco na construção de interfaces e na forma como tudo se estrutura e se conecta, querendo cada vez mais mergulhar nesse mundo e descobrir como as coisas funcionam por trás dos bastidores. Uma das minhas qualidades é o fato de falar inglês fluentemente, o que me permite acessar conteúdos e aprender de forma mais ampla. Meu foco é seguir evoluindo na área, praticando, entendendo melhor lógica e estrutura, e transformando o que aprendo em algo funcional no dia a dia.
 
-<br/><br/>
+<br/>
 
 Seja bem-vindo ao meu GitHub.
 </p>
